@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rehabit-website/static/css/main.c327555b.css",
+    "main.js": "/rehabit-website/static/js/main.4d988a3e.js",
+    "static/js/453.93b003d3.chunk.js": "/rehabit-website/static/js/453.93b003d3.chunk.js",
+    "static/media/rehabit-logo.jpg": "/rehabit-website/static/media/rehabit-logo.12c52180d216f1592570.jpg",
+    "index.html": "/rehabit-website/index.html",
+    "main.c327555b.css.map": "/rehabit-website/static/css/main.c327555b.css.map",
+    "main.4d988a3e.js.map": "/rehabit-website/static/js/main.4d988a3e.js.map",
+    "453.93b003d3.chunk.js.map": "/rehabit-website/static/js/453.93b003d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c327555b.css",
+    "static/js/main.4d988a3e.js"
+  ]
+}
