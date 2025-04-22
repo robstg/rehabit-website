@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rehabit-website/static/css/main.57f03170.css",
+    "main.js": "/rehabit-website/static/js/main.f01af5b0.js",
+    "static/js/453.93b003d3.chunk.js": "/rehabit-website/static/js/453.93b003d3.chunk.js",
+    "index.html": "/rehabit-website/index.html",
+    "main.57f03170.css.map": "/rehabit-website/static/css/main.57f03170.css.map",
+    "main.f01af5b0.js.map": "/rehabit-website/static/js/main.f01af5b0.js.map",
+    "453.93b003d3.chunk.js.map": "/rehabit-website/static/js/453.93b003d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57f03170.css",
+    "static/js/main.f01af5b0.js"
+  ]
+}
