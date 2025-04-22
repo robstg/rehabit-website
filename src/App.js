@@ -1,9 +1,11 @@
 import React from 'react';
 import './App.css';
+import rehabitLogo from './assets/rehabit-logo.jpg';
 
 function App() {
   return (
     <div className="App">
+      <img src={rehabitLogo} alt="Rehabit logo with phoenix" className="rehabit-logo" />
       <header>
         <h1>Rehabit: Your Journey to Recovery</h1>
         <p>Track daily habits, rebuild your life, and stay accountable.</p>
