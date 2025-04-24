@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import rehabitLogo from './assets/rehabit-logo.jpg';
-
+// Force GitHub Pages refresh - April 24, 2025 v8
 function App() {
   return (
     <div className="App">
